@@ -1,0 +1,52 @@
+_repo: The-universe-wreckers_74302
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Morey, Leo
+    alias: Morey y Pena, Leopoldo Raul
+    birthdate: 1889
+    deathdate: 1965
+    gutenberg_agent_id: '32299'
+    url: http://www.gutenberg.org/2009/agents/32299
+  - agent_name: Wessolowski, Hans Waldemar
+    aliases:
+    - Wesso
+    - Wesso, H. W.
+    - Wesso, H.W.
+    birthdate: 1893
+    deathdate: 1948
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74302'
+language: en
+pgterms:marc905: 20240330043412hamilton
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bExperimenter Publications Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Neptune (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The universe wreckers
+url: http://www.gutenberg.org/ebooks/74302
