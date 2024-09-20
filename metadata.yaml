@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '32703'
     url: http://www.gutenberg.org/2009/agents/32703
     wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+covers:
+- cover_type: archival
+  image_path: 74302-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74302#The-universe-wreckers
 gutenberg_issued: '2024-08-23'
 gutenberg_type: Text
 identifiers:
